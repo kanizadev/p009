@@ -32,31 +32,6 @@ A modern, beautiful Snake game built with Flutter featuring glassmorphism UI, mu
 
 *Add screenshots of your game here*
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Flutter SDK (3.9.2 or higher)
-- Dart SDK
-- Android Studio / VS Code / Any IDE with Flutter support
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/p009.git
-   cd p009
-   ```
-
-2. **Install dependencies**
-   ```bash
-   flutter pub get
-   ```
-
-3. **Run the app**
-   ```bash
-   flutter run
-   ```
 
 ### Build for Platforms
 
@@ -130,14 +105,6 @@ Track your progress with built-in achievements:
 - **Animation Controllers**: Smooth animations
 - **Glassmorphism**: Frosted glass effects
 
-## 📁 Project Structure
-
-```
-lib/
-├── main.dart          # Main game logic and UI
-test/
-├── widget_test.dart   # Widget tests
-```
 
 ## 🎨 Key Components
 
@@ -158,27 +125,10 @@ test/
 | Arrow Right / D | Move Right |
 | Swipe Gestures | Change direction (mobile) |
 
-## 🐛 Known Issues
-
-- Statistics are stored in-memory (not persistent across app restarts)
-- Power-ups may occasionally overlap with food (rare edge case)
-
-## 🔮 Future Enhancements
-
-- [ ] Persistent statistics storage
-- [ ] Sound effects and background music
-- [ ] More game modes
-- [ ] Leaderboard system
-- [ ] Custom themes
-- [ ] Multiplayer mode
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👨‍💻 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/p009/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/kanizadev/p009/issues).
 
 ## 🙏 Acknowledgments
 
