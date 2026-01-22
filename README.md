@@ -30,7 +30,7 @@ A modern, beautiful Snake game built with Flutter featuring glassmorphism UI, mu
 
 ## 📸 Screenshots
 
-*Add screenshots of your game here*
+<img src="https://raw.githubusercontent.com/kanizadev/p009/refs/heads/main/image.png" hight=446 width=243 /> <img src="https://raw.githubusercontent.com/kanizadev/p009/refs/heads/main/image1.png" hight=446 width=243 /> <img src="https://raw.githubusercontent.com/kanizadev/p009/refs/heads/main/image2.png" hight=446 width=243 />
 
 
 ### Build for Platforms
